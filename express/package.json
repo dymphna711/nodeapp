@@ -1,0 +1,28 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "Express application using Jade and Stylus",
+  "main": "app.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"dependencies":{
+  	"express":"*",
+  	"jade":"*",
+  	"nib":"*",
+  	"stylus":"*",
+  	"middleware":"*",
+  	"connect":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dymphna711/nodeapp.git"
+  },
+  "author": "Ellen Caton",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/dymphna711/nodeapp/issues"
+  },
+  "homepage": "https://github.com/dymphna711/nodeapp"
+}
